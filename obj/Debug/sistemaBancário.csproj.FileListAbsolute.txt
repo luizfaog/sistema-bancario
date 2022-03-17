@@ -1,0 +1,7 @@
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\bin\Debug\sistemaBancário.exe.config
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\bin\Debug\sistemaBancário.exe
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\bin\Debug\sistemaBancário.pdb
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\obj\Debug\sistemaBancário.csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\obj\Debug\sistemaBancário.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\obj\Debug\sistemaBancário.exe
+C:\Users\Luis Felipe\source\repos\sistemaBancário\sistemaBancário\obj\Debug\sistemaBancário.pdb
